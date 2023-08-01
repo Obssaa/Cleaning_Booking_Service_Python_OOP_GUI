@@ -1,0 +1,7 @@
+{'servicename': 'Regular Cleaning', 'serviceprice': '200'}
+{'servicename': 'Deep Cleaning', 'serviceprice': '300'}
+{'servicename': 'Weekly Cleaning', 'serviceprice': '450'}
+{'servicename': 'Monthly Cleaning', 'serviceprice': '100'}
+{'servicename': 'Steam Cleaning', 'serviceprice': '250'}
+{'servicename': 'Vacuuming', 'serviceprice': '70'}
+{'servicename': 'Sanitization', 'serviceprice': '150'}

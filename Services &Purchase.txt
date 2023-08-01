@@ -1,0 +1,8 @@
+{'usercode': 'kal6474583324', 'services': {'Regular': 200, 'Deep': 300}, 'totalPrice': 500}
+{'usercode': 'ibi4946842809', 'services': {'Regular': 200, 'Deep': 300, 'Weekly': 450}, 'totalPrice': 950}
+{'usercode': 'mom3829889885', 'services': {'Regular': 200, 'Deep': 300, 'Weekly': 450}, 'totalPrice': 950}
+{'usercode': 'fer4270872239', 'services': {'Regular': 200, 'Deep': 300, 'Weekly': 450}, 'totalPrice': 950}
+{'usercode': 'ayu7314314355', 'services': {'Regular': 200, 'Deep': 300}, 'totalPrice': 500}
+{'usercode': 'kal6474583324', 'services': {'Regular': 200}, 'totalPrice': 200}
+{'usercode': 'mom3829889885', 'services': {'Regular': 200, 'Deep': 300, 'Weekly': 450}, 'totalPrice': 950}
+{'usercode': 'tem3882275305', 'services': {'Regular': 200, 'Deep': 300, 'Weekly': 450}, 'totalPrice': 950}

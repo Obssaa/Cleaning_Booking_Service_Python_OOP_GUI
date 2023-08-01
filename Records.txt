@@ -1,0 +1,9 @@
+{'code': 'kal6474583324', 'fname': 'Fer', 'uname': 'kaled', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 3254.0, 'points': 200, 'acctype': 'M'}
+{'code': 'mom3829889885', 'fname': 'Meaza', 'uname': 'mom', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 100022222248010.0, 'points': 950, 'acctype': 'M'}
+{'code': 'ibi4946842809', 'fname': 'Ibrahim Omer', 'uname': 'ibu', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 35454698.0, 'points': 950, 'acctype': 'M'}
+{'code': 'obs4611191334', 'fname': 'Obsa', 'uname': 'obsa', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 0, 'points': 0, 'acctype': 'E'}
+{'code': 'hor6972425460', 'fname': 'horieb', 'uname': 'horieb', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 0, 'points': 0, 'acctype': 'E'}
+{'code': 'sal6185115837', 'fname': 'Salman', 'uname': 'salman', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 0, 'points': 0, 'acctype': 'M'}
+{'code': 'ayu7314314355', 'fname': 'Aymen', 'uname': 'ayu', 'passw': 'm', 'addi': 'm', 'pnum': 'm', 'balance': 600.0, 'points': 500, 'acctype': 'R'}
+{'code': 'tem3882275305', 'fname': 'Temesgen habte', 'uname': 'teme', 'passw': '123', 'addi': 'Abudhabi', 'pnum': '0504805823', 'balance': 1000.0, 'points': 950, 'acctype': 'R'}
+{'code': 'O7648350875', 'fname': 'O', 'uname': 'O', 'passw': 'O', 'addi': 'O', 'pnum': 'O', 'balance': 0, 'points': 0, 'acctype': 'R'}
